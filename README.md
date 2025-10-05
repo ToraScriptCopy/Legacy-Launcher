@@ -10,9 +10,15 @@
 |----------|-----------|-------------|
 | 🪟 Windows | [⬇ Download `.exe`](https://drive.google.com/uc?export=download&id=10ehIKq0o16TSgrw4ssWwktHtTB44E8DF) | v1.16.5 (final legacy) |
 
+[![VT - Scan](https://img.shields.io/badge/VT-Scan-blue?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community) 
+[![VT - Community](https://img.shields.io/badge/VT-Community-lightgrey?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community) 
+[![VT - Report](https://img.shields.io/badge/VT-Report-red?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community) 
+[![VT - Details](https://img.shields.io/badge/VT-Details-green?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community)
+
 > 💡 **Tip:** You can also manually download the archived launcher JAR from the [LegacyLauncher GitHub organization](https://github.com/LegacyLauncher) if you prefer manual setup.
 
 ---
+
 
 
 ## 📝 Overview

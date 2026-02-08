@@ -8,7 +8,7 @@
 
 | Platform | Installer | Last Version |
 |----------|-----------|-------------|
-| 🪟 Windows | [⬇ Download `.exe`]([https://drive.google.com/uc?export=download&id=10ehIKq0o16TSgrw4ssWwktHtTB44E8DF](https://drive.usercontent.google.com/download?id=10ehIKq0o16TSgrw4ssWwktHtTB44E8DF&export=download&authuser=0&confirm=t&uuid=727c4258-8bd7-4b68-a78a-52c01fee0e99&at=APcXIO2nsaIkynfG3IfwZTScHAHh%3A1770594486840)) | v1.16.5 (final legacy) |
+| 🪟 Windows | [⬇ Download `.exe`](https://drive.usercontent.google.com/download?id=10ehIKq0o16TSgrw4ssWwktHtTB44E8DF&export=download&authuser=0&confirm=t&uuid=727c4258-8bd7-4b68-a78a-52c01fee0e99&at=APcXIO2nsaIkynfG3IfwZTScHAHh%3A1770594486840) | v1.16.5 (final legacy) |
 
 [![VT - Scan](https://img.shields.io/badge/VT-Scan-blue?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community) 
 [![VT - Community](https://img.shields.io/badge/VT-Community-lightgrey?logo=virustotal)](https://www.virustotal.com/gui/file/a7c997ba3c3e91c048f80f96f08754948428f6d3fe4001bab79c4ae09d06c5e0/community) 
